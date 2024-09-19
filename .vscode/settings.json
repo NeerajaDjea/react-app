@@ -12,6 +12,8 @@
 	"files.associations": {
 		"*.js": "javascriptreact"
 	},
+	"security.workspace.trust.enabled": false,
+	"typescript.preferences.includePackageJsonAutoImports": "on",
 	"beautify.ignore": ["**/*.js", "**/*.jsx"],
 	"prettier.endOfLine": "auto",
 	"prettier.htmlWhitespaceSensitivity": "ignore",
@@ -20,5 +22,14 @@
 	"prettier.bracketSameLine": true,
 	"prettier.bracketSpacing": false,
 	"prettier.jsxSingleQuote": true,
-	"prettier.useTabs": true
+	"prettier.useTabs": true,
+	"emmet.preferences": {},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"terminal.integrated.suggest.builtinCompletions": {
+		"pwshCode": true,
+		"pwshGit": true
+	},
+	"typescript.experimental.updateImportsOnPaste": true
 }

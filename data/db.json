@@ -1,0 +1,34 @@
+{
+	"blogs": [
+		{
+			"title": "My new website",
+			"author": "Tom",
+			"body": "orem ipsum dolor sit amet, consectetur adipiscing elit. Proin non lacus ac urna sodales pulvinar et a sem. Nullam condimentum sem et metus placerat, a dapibus velit rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum cursus nulla, eget facilisis eros dapibus cursus. Curabitur sed nisl sem",
+			"id": 1
+		},
+		{
+			"title": "Welcome",
+			"author": "Jerry",
+			"body": "orem ipsum dolor sit amet, consectetur adipiscing elit. Proin non lacus ac urna sodales pulvinar et a sem. Nullam condimentum sem et metus placerat, a dapibus velit rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum cursus nulla, eget facilisis eros dapibus cursus. Curabitur sed nisl sem",
+			"id": 2
+		},
+		{
+			"title": "Happy learning",
+			"author": "Mickey",
+			"body": "orem ipsum dolor sit amet, consectetur adipiscing elit. Proin non lacus ac urna sodales pulvinar et a sem. Nullam condimentum sem et metus placerat, a dapibus velit rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum cursus nulla, eget facilisis eros dapibus cursus. Curabitur sed nisl sem",
+			"id": 3
+		},
+		{
+			"title": "React",
+			"author": "Mickey",
+			"body": "orem ipsum dolor sit amet, consectetur adipiscing elit. Proin non lacus ac urna sodales pulvinar et a sem. Nullam condimentum sem et metus placerat, a dapibus velit rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum cursus nulla, eget facilisis eros dapibus cursus. Curabitur sed nisl sem",
+			"id": 4
+		},
+		{
+			"title": "Angular",
+			"author": "Mickey",
+			"body": "orem ipsum dolor sit amet, consectetur adipiscing elit. Proin non lacus ac urna sodales pulvinar et a sem. Nullam condimentum sem et metus placerat, a dapibus velit rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum cursus nulla, eget facilisis eros dapibus cursus. Curabitur sed nisl sem",
+			"id": 5
+		}
+	]
+}
